@@ -1,4 +1,4 @@
-# Cadastro-de-cliente - Olá gays
+# Cadastro-de-cliente
 Criar um formulário de cadastro para um cliente.
 
 <h1> Sistema de cadastro de clientes</h1>
