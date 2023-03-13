@@ -1,0 +1,9 @@
+@import "header.css";
+@import "div.css";
+@import "body.css";
+@import "imgFundo.css";
+
+* {
+    justify-content: center;
+    align-items: flex-start;
+}
