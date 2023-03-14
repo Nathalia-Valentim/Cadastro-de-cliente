@@ -1,0 +1,54 @@
+.principal {
+    width: 500px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    float: left;
+    margin-left: 240px;
+    margin-right: 16px;
+}
+.divInformacoes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 700px;
+    height: 50px;
+    margin: 8px;
+    background-color: #e99f9f;
+    padding: 4px;
+    margin-top: 16px;
+    border-radius: 20px;
+}
+.informacao {
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 24px;
+}
+
+.valores {
+    width: 100px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    float: inherit;
+}
+.divValor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    width: 100px;
+    height: 50px;
+    margin: 8px;
+    background-color: #c7d1d3;
+    padding: 4px;
+    margin-top: 16px;
+}
+.numero {
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 24px;
+    margin: auto;
+}
